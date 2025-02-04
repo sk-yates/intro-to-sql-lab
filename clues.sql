@@ -45,7 +45,7 @@ SELECT * FROM countries WHERE code = 'BRA';
 
 -- Write SQL query here
 SELECT name FROM cities WHERE id = '211';
--- Answer = Brasília
+-- Answer = Brasília - Brazil
 
 
 -- Clue #7: She knows we're on to her – her taxi dropped her off at the international airport, and she beat us to the boarding gates. 
